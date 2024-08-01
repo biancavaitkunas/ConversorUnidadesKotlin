@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string-array name="unit_array">
+        <item>Kilometers</item>
+        <item>Miles</item>
+    </string-array>
+</resources>
